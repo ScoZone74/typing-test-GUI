@@ -1,0 +1,21 @@
+super_list = ["absence", "account", "anybody", "apple",
+              "baby", "back", "ball", "bear", "bell", "beneath", "bird", "birthday", "boat", "boy", "button", "bread", "brother", "cake", "car",
+              "chair", "channel", "chicken", "children", "coat", "common", "corn", "cow",
+              "daytime", "default", "dilemma", "dog", "doll", "door", "duck",
+              "eastern", "elegant", "emotion", "example", "excited",
+              "farm", "farmer", "father", "feet", "fire", "finished", "fish", "floor", "flower",
+              "game", "garden", "girl", "goodbye", "graphic", "grass", "ground",
+              "hand", "harmful", "head", "hill", "home", "horse", "house",
+              "illegal", "inspire", "insured", "involve"
+              "kicking", "killing", "kitty",
+              "lasagna", "laundry", "leading", "letter", "liberty", "loading",
+              "massage", "milk", "money", "morning", "mother",
+              "name", "nest", "network", "night", "nowhere",
+              "paper", "payment", "party", "picture", "piping", "process",
+              "quality", "quarter", "quit", "quote",
+              "rabbit", "random", "rain", "ring", "robin",
+              "school", "seed", "sheep", "shoe", "sister", "snow", "song", "squirrel", "stamina", "stick",
+              "street", "sun",
+              "table", "therapy", "thing", "time", "tonight", "tree",
+              "watch", "water", "wind", "window", "wood", "worried"]
+
